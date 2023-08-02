@@ -1,2 +1,3 @@
 # Early-Stage-Diabetes-Prediction
 Machine Learning model for Early Stage Diabetes Prediction
+The Pima Indian Diabetes dataset is a widely used collection of medical data containing 768 observations of female Pima Indians, aged 21 and above, residing in Arizona, USA. The dataset includes various attributes such as glucose level, blood pressure, BMI, and the presence of diabetes within five years. It is commonly employed in machine learning and statistical research to develop predictive models for diabetes diagnosis. Researchers analyze this dataset to explore the relationship between risk factors and diabetes occurrence, aiming to improve early detection and personalized treatment strategies for individuals with this chronic condition.
